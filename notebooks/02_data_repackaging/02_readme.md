@@ -6,7 +6,7 @@ This notebook consolidates multiple cleaned datasets into a unified format suita
 
 ## Inputs.
 
-- Cleaned individual datasets from `01_data_download_explore_clean.ipynb`.
+- Five cleaned individual datasets from `01_data_download_explore_clean.ipynb`.
 
 ## Outputs.
 
